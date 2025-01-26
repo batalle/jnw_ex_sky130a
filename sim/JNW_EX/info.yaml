@@ -1,0 +1,12 @@
+library: JNW_EX_SKY130A
+cell: JNW_EX
+author: Pol Batalle
+github: batalle
+email: polba@ntnu.no
+url: analogicus.github.io
+doc:
+  libraries:
+    JNW_EX_SKY130A:
+      - JNW_EX
+sim:
+  JNW_EX: make typical
